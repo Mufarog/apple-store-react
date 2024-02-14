@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import products from './data'; // Import your products data
-import SearchBar from './SearchBar';
+import SearchBar from './ SearchBar';
 import SideBar from './SideBar';
 import BagSideBar from './BagSideBar';
 import './HomePage.css';

@@ -4,7 +4,7 @@ import './Checkout.css';
 import Bag from './Bag';
 import OrderSummary from './OrderSummary';
 import { useBag } from './BagContext';
-import UserData from './UserData';
+import UserData from './ UserData';
 import { Link } from 'react-router-dom'; // Don't forget to import Link
 
 const Checkout = () => {
